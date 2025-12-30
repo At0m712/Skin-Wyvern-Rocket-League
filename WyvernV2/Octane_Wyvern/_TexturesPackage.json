@@ -1,0 +1,16 @@
+{
+    "Octane": {
+		"BodyID": 23,
+		"SkinID": 8375,
+		"Group": "WyvernV2",
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+        "1_Diffuse_Skin": "WyvernV2_Diffuse.png",
+        "2_Diffuse_Skin_Mask": "Oct_Texture.png",
+			"Skin": ""
+		}
+    }
+}
